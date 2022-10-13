@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    font-family sans-serif;
+
+}
+nav{
+    background-color:lightgray;
+    border-bottom: 1px solid black;
+}
+nav div{
+    display:inline-block;
+    padding:25px 20px;
+    width:75px;
+    background-color
+}
